@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction to Basic Mechanics</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>43489d62-7b55-4100-82f1-fdbf27138e97</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">The branch of physics that deals with the action
+      of forces on matter is referred to as
+      <term>mechanics</term>. All considerations of motion are
+      addressed by mechanics, as well as the transmission of forces
+      through the use of simple machines. When building a small robot, the primary goal is
+      mechanical, e.g., placing blocks into a bin, and electronics are
+      used to control the mechanics.
+    </para>
+    <para id="para2">While it is not necessary to sit down and draw
+      free body diagrams or figure out the static coefficient of
+      friction between the LEGO tires and the game board, it is
+      helpful to keep certain mechanical concepts in mind when
+      constructing a robot. If a robot's tires are spinning because
+      they do not grip the floor, then something must be done to
+      increase the friction between the tires and the floor. One
+      solution is to glue a rubber band around the circumference of
+      the tire. That problem/solution did not require an in-depth
+      study of physics. Simply considering the different possibilities
+      can lead to more mechanically creative robots.
+    </para>
+    <para id="para3">Describing motion involves more than just saying
+      that an object moved three feet to the right. The magnitude and
+      direction of the displacement are important, but so are the
+      characteristics of the object's velocity and acceleration. To
+      understand these concepts, we must examine the nature of <link document="">force</link>. Changes in the motion of an object are
+      created by forces.</para>
+  </content>
+  
+</document>

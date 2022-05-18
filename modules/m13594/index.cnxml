@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Simple Machine Elements</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>50f7f0a0-3971-441a-9e38-28f7c5dc49ad</md:uuid>
+</metadata>
+
+  <content>
+
+    <!-- intro to simple machines --> 
+    <para id="para1">Complex machines are made up of moving parts such
+      as levers, gears, cams, cranks, springs, belts, and
+      wheels. Machines deliver a certain type of movement to a desired
+      location from an input force applied somewhere else. Some
+      machines simply convert one type of motion to another type, such as
+      rotary to linear.  While there is a seemingly endless variety
+      of machines, they are all based upon simple machine elements. The elements
+discussed here include inclined planes, levers, wheels and axles,
+      pulleys, and screws.</para>
+
+    <para id="para2">It is important to remember that all machines are
+      limited in their efficiency by friction. No machine is 100 percent efficient
+      in its efforts, so the mechanical advantage gained will require additional
+       energy to accomplish the task.  For more information on friction, see this <link document="m11106" strength="2">module</link>
+	</para>
+
+    <section id="ip">
+      <title>The Inclined Plane</title>
+
+      <para id="para3">An <term>inclined plane</term> decreases the force
+	required to raise an object a given height by
+	increasing the distance over which that force must be
+	applied, see <link target-id="fig1"/>.  Imagine lifting something twice your weight to a 4
+	foot high shelf. Now imagine rolling the same mass up a gently
+	sloping surface.  The latter would be much easier. Inclined
+	planes are commonly put to use in cutting devices and often
+	two inclined planes are put back to back to form a wedge. In a
+	wedge, forward movement is converted into a parting movement
+	acting perpendicular to the face of the blade. A zipper is simply a combination of two
+	lower wedges for closing and an upper wedge for opening, as shown in <link target-id="fig2"/>.</para>
+
+      <figure id="fig1">
+	<media id="idp6267808" alt=""><image src="../../media/img70.gif" mime-type="image/gif"/></media>
+	<caption>Inclined Plane</caption>
+      </figure>
+      
+      <figure id="fig2"> 
+	<media id="idp671408" alt=""><image src="../../media/img71.gif" mime-type="image/gif"/></media>
+	<caption>The Inclined Plane at Work</caption>
+      </figure>
+    <!-- section for The Screw under inclined plane -->
+    <section id="scr">
+      <title>The Screw</title>
+
+      <figure id="fig8">
+	<media id="idp3191040" alt=""><image src="../../media/screw.gif" mime-type="image/gif"/></media>
+	<caption>The Screw</caption>
+      </figure>
+
+      <para id="para15">The <term>screw</term> is basically an
+	inclined plane (see <link target-id="fig8"/>) wrapped around a
+	cylinder. In an inclined plane, a linear force in the
+	horizontal plane is converted to a vertical "lifting"
+	force. With a screw, a rotary force in the horizontal plane is
+	converted to a vertical "lifting" force.</para>
+
+      <para id="para16">When a wood screw is turned, the threads of
+	the screw push up on the wood. A reaction force from the wood
+	pushes back down on the screw threads and in this way the
+	screw moves down even though the force of turning the screw is
+	in the horizontal plane. Screws are known for high friction,
+	which is why they are used to hold things together. A worm gear is sometimes used in machines, but they also have high friction that can waste considerable power. </para>
+    </section>
+    </section>
+
+    <!-- section for levers under simple machines -->
+    <section id="levers">
+      <title>Levers</title>
+
+      <para id="para4">A <term>lever</term> has three points of
+	interest: the fulcrum, the load, and the effort applied to the lever. The
+	<term>fulcrum</term> is the point around which the lever
+	pivots rotationally. The <term>load</term> is what we wish to
+	manipulate with the lever, and the load is described by its position relative to the fulcrum, and the force (magnitude and direction) it exerts at that point. 
+	The <term>effort</term> is also a force that has a magnitude and
+	a direction, and a position with respect to the fulcrum. A lever
+	is used to change the direction of movement, and to
+	trade the magnitude of the effort for the distance over which
+	the effort is applied.</para>
+      
+      <figure id="fig3"> 
+	<media id="idp2457008" alt=""><image src="../../media/levers.gif" mime-type="image/gif"/></media>
+	<caption>Classes of Levers</caption>
+      </figure>
+
+      <para id="para5">As shown in <link target-id="fig3"/>, there are
+	three different classes of levers defined by the relative
+	positions of the fulcrum, effort, and load. A <term>first
+	class lever</term> has the fulcrum positioned between the
+	effort and the load. Examples of first class levers include: a
+	balance, a crow bar, and scissors. In a <term>second class
+	lever</term> the load is placed between the fulcrum and the
+	effort. Examples of second class levers include: a
+	wheelbarrow, a bottle opener, and a nutcracker.  <term>Third
+	class levers</term> place the effort between the fulcrum and
+	the load. Examples of a third class lever are a hammer, a
+	fishing rod, and tweezers. Most machines that employ levers
+	use a combination of several levers, often of different
+	classes.</para>
+    </section>
+
+    <!-- section for The Wheel and Axle under simple machines -->
+    <section id="wheelandaxle">
+      <title>The Wheel and Axle</title>
+
+      <para id="para6">Both levers and the inclined plane lower the force required for a task at the price of having to apply that force over a longer distance. 
+	With wheels and
+	axles the same is true: a poweful force and movement of the axle is converted
+	to a greater movement, but less force, at the circumference of the wheel. In a circular geometry, <term>torque</term> is a more useful concept than force and distance.  You can learn more about torque <link document="m11106" strength="2">here</link>. The
+	<term>wheel and axle</term> can be thought of as simply a
+	circular lever, as shown in <link target-id="fig4"/>. Many common
+	items rely on the wheel and axle such as the screwdriver, the
+	steering wheel, the wrench, and the faucet.</para>
+
+      <figure id="fig4"> 
+	<media id="idp1621632" alt=""><image src="../../media/img73.gif" mime-type="image/gif"/></media>
+	<caption>The Wheel and Axle</caption>
+      </figure>
+      
+      <!-- subsection for Gears and Belts under The Wheel and Axle in
+      simple machines -->
+      <section id="gearsbelts">
+	<title> Gears and Belts</title>
+	
+	<para id="para7">A wheel and axle assembly becomes especially
+	  useful when combined with gears and belts. <term>Gears</term> can be used to change the
+	  direction or speed of movement, but changing the speed of
+	  rotation inversely affects the force transmitted. A small
+	  gear meshed with a larger gear will turn faster, but with
+	  less force. There are four basic types of gears: spur gears,
+	  rack and pinion gears, bevel gears, and worm gears.
+	  <term>Spur gears</term> are probably the type of gear that
+	  most people picture when they hear the word. The two wheels
+	  are in the same plane (the axles are parallel). With
+	  <term>rack and pinion gears</term> there is one wheel and
+	  one rack, a flat toothed bar that converts the rotary motion
+	  into linear motion.  <term>Bevel gears</term> are also known
+	  as pinion and crown or pinion and ring gears. In bevel
+	  gears, two wheels intermesh at an angle changing the
+	  direction of rotation (the axles are not parallel); the
+	  speed and force may also be modified, if desired.
+	  <term>Worm gears</term> involve one wheel gear (a pinion)
+	  and one shaft with a screw thread wrapped around it. Worm
+	  gears change the direction of motion as well as the speed
+	  and force.  <term>Belts</term> work in the same manner as
+	  spur gears except that they do not change the direction of
+	  motion.</para>
+
+	<para id="para8">In both gears and belts, the speed and force is altered
+	  by the size of the two interacting
+	  wheels. In any pair, the bigger wheel always rotates more
+	  slowly, but with more force.  On both the big and the small gear, the linear
+	  velocity at the point of contact for the wheels is equal. If
+	  it was unequal and one gear were spinning faster than the
+	  other at the point of contact then it would rip the teeth
+	  right off of the other gear. As the circumference of the
+	  larger gear is greater, a point on the outside of the larger
+	  gear must cover a greater distance than a point on the
+	  smaller gear to complete a revolution. Therefore the smaller
+	  gear must complete more revolutions than the larger gear in
+	  the same time span. (It's rotating more quickly.) </para> 
+
+	<para id="para8a">The force
+	  applied to the outer surface of each wheel must also be
+	  equal otherwise one of them would be accelerating more
+	  rapidly than the other, and again the teeth of the other
+	  wheel would break. However, the forces 
+	  the forces applied to 
+	  the axles are not equal. Returning to the
+	  concept of levers, we know that the distance from the fulcrum at which the
+	  force is applied effects the force applied at another point, and a wheel and
+	  axle works like a lever. Equal forces are being applied to
+	  each wheel, but on the larger wheel that force is being
+	  applied at a greater distance from the axle. Thus, for the larger wheel,
+	  the force on the axle is greater than the force on the axle
+	  of the smaller wheel.</para>
+      </section>
+    </section>
+
+    <!-- section for Cams and Cranks under simple machines -->
+    <section id="cac">
+      <title>Cams and Cranks </title>
+
+      <para id="para9">Both cams and cranks are useful when a
+	repetitive motion is desired. <term>Cams</term> make rotary
+	motion a little more interesting by essentially moving the
+	axle off-center. Cams are often used in conjunction with a
+	rod. One end of the rod is held flush against the cam by a
+	spring. As the cam rotates the rod remains stationary until
+	the "bump" of the cam pushes the rod away from the cam's
+	axle.  Cams can be used to
+	create either a linear repetitive motion such as the one
+	illustrated in <link target-id="fig5"/>, or a repetitive
+	rotational motion such as <link document="m" target-id="use_rubberband2.gif">using a cam and a rubber
+	band</link>.</para>
+
+      <figure id="fig5">
+	<media id="idp6123664" alt=""><image src="../../media/img74.gif" mime-type="image/gif"/></media>
+	<caption>Cams and Cranks</caption>
+      </figure>
+
+      <para id="para10"><term>Cranks</term> convert rotary motion into
+	a piston-like linear motion. The best examples of cranks in
+	action are the drive mechanism for a steam locomotive and the
+	automobile engine crankshaft. In a crank, the wheel rotates
+	about a centered axle, while an arm is attached to the wheel
+	with an off-centered peg. This arm is attached to a rod fixed
+	in a linear path. A crank will cause the rod to move back and
+	forth.  If instead the rod is pushed back and forth, it will cause
+	the crank to turn. On the other hand, cams can move their
+	rods, but rods cannot move the cams. </para>
+
+    </section>
+    <!-- section for Pulleys under simple machines -->
+    <section id="pull">
+      <title>Pulleys </title>
+
+      <figure id="fig6">
+	<media id="idm8206176" alt=""><image src="../../media/pulley.gif" mime-type="image/gif"/></media>
+	<caption>Pulleys</caption>
+      </figure>
+
+      <para id="para11"><term>Pulleys</term> can be used to simply
+	change the direction of an applied force or to provide a
+	force/distance tradeoff in addition to a directional change,
+	as shown in <link target-id="fig6"/>. Pulleys are very flexible
+	because they use ropes or chain to transfer force rather than a rigid
+	object such as a rod. Ropes can be routed through
+	virtually any path. They are able to abruptly change
+	directions in three-dimensions without consequence, except, of 
+course, additional friction. Ropes can
+	be wrapped around a motor's shaft and either wound up or let
+	out as the motor turns.</para>
+
+      <figure id="fig7">
+	<media id="idm928896" alt=""><image src="../../media/compound_pulley.gif" mime-type="image/gif"/></media>
+	<caption>How Compound Pulleys Work</caption>
+      </figure>
+     
+      <para id="para13"> <link target-id="fig7"/> illustrates how a
+	compound pulley 'trades' force for distance through an
+	action/reaction force pair. In a double pulley, as the rope
+	passes over the pulley the force is transmitted entirely but
+	the direction has changed. The effort is now pulling up on the
+	left side of the bottom pulley. Now, for a moment forget that
+	the end of the rope is tied to the bottom of the top
+	pulley. The mechanics are the same if the rope is fixed to the
+	ceiling. The important thing is that the end of the rope is
+	immobile. The effort is once again transmitted entirely as the
+	rope passes over the bottom pulley and there is a direction
+	change. The end of the rope is attached to the ceiling so the
+	rope is pulling down on the ceiling with the force of the
+	effort (and half of the force of the load). We assume that the
+	ceiling holds up, so this must mean that there is a force
+	balancing out this downward force. The ceiling pulls up on the
+	rope as a reaction force. This upward force is equal to the
+	effort and now there is an upward force on the right side of
+	the bottom pulley. From the perspective of a free-body diagram
+	the compound pulley system could be replaced by tying two
+	ropes to the load and pulling up on each with a force equal to
+	the effort.</para>
+
+      <para id="para14">The disadvantages of pulleys, in contrast to
+	machines that use rigid objects to transfer force, are
+	slipping and stretching. A rope will permanently stretch under
+	tension, which may affect the future performance of a
+	device. If a line becomes slack, then the operation of a
+	machine may change entirely. Also, ropes will slip and stick
+	along pulley wheels just like belts. One solution to the
+	problems associated with rope is to use chain. Chain is
+	pliable like rope, and is able to transfer force through many
+	direction changes, but the chain links are inflexible in
+	tension, so that the chain will not stretch. Chains may also
+	be made to fit on gears so that slipping is avoided.
+      </para>
+    </section>
+
+  </content>
+	  
+</document>

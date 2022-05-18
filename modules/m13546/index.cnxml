@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Counterweights</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b9dccee5-ec7e-42af-845d-acea2f9eb366</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">Counterweighting is a necessary evil in
+      constructing even a simple robot. Small robots often carry a
+      fairly massive battery, and its placement within the robot's
+      structure is important.  If the location of the robot's center of mass
+      has not been well placed, there is a possibility of it overturning in response to sudden changes of speed, both stopping and starting. If the battery cannot be moved, weight may have to be added elsewhere to compensate.  However, you may be able to use mechanical "outriders" to control tipping with much less added weight.  Another use of counterweights is to keep a robot stable when a long arm extends, changing the center of mass. Examples of common
+      <term>counterweights</term> are shown in <link target-id="fig1"/> .</para>
+
+    <figure id="fig1">
+       <media id="idm7046624" alt=""><image src="../../media/counterweight.gif" mime-type="image/gif"/></media>
+      <caption>Some Common Counterweights</caption>
+    </figure>
+
+    <para id="para2">The use of counterweights might also prove useful to raise
+      a bin carrying blocks. Rather than committing an entire motor to
+      raising a bin, a set of counterweights, known to be heavier than
+      the bin plus contents, could be suspended until the time when the
+      bin should rise. Of course if a motor is used to release the
+      the counterweights then no motors have been saved, but a much smaller motor and gear train could probably be used, or the motor could
+      be used for more than one task if a <link document="" target-id="automatic_transmission.gif">mechanical
+      transmission</link> was employed. Another solution would be to
+      use the high current LED outputs to operate a solenoid to release the counterweights.  In addition, if the weight of a bin or an arm is balanced by a counterweight, it can be moved by a smaller, lighter motor, and there is less mechanical stress on the gears and mechanism. </para>
+      </content>
+    </document>

@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Springs</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1c6c50fb-ae47-4a50-bbbc-de21721f14fa</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">A favorite device for storing potential energy is
+    the <term>spring</term>. Everything from clocks to catapults make
+    use of springs. One common use for springs is to
+    return something to its original position. Another interesting
+    application is the measurement (and creation of) force, such as springs in a scale. The third use is to store energy. All springs perform all
+    three functions all of the time, but specific devices are built to
+    exploit certain functions of the spring.</para>
+
+    <para id="element-493">There are many physical forms of springs, created for specific purposes. The most basic form is the bending bar, shown in Figure 1.  The familiar coil spring is just a bar spring in a different form.  A rubber band is also a spring that makes use of the elastic properties of polymer materials. </para><figure id="fig1">
+       <media id="idp9419792" alt=""><image src="../../media/img79.gif" mime-type="image/gif"/></media> <caption>Bar
+      Spring</caption>
+    </figure>
+    
+    <para id="para2">To understand how a spring works, one must zoom in to the microscopic level
+    where molecules interact. Molecules are held together in rigid
+    bodies because of electromagnetic forces. Some of these forces are
+    repulsive, and some of them are attractive. Normally they balance
+    out so that the molecules are evenly spaced within an object;
+    however, by bending a bar, some molecules are forced farther apart
+    and others are shoved closer together, as in Figure 1. Where the molecules have
+    been spread out, the attractive forces strive to return the
+    original spacing. Where molecules have been forced together, the
+    repulsive forces work to return the object to the original shape. A coil spring works in more or less the same
+    way as a bar spring; when its shape is deformed, molecular forces act to return it to its original shape.
+    </para>
+    
+    <!--section for Rubber bands in springs -->
+    <section id="rb">
+      <title>Rubber Bands </title>
+      
+      <para id="para3">A rubber band is slightly more versatile than a metal spring
+      because of its flexibility, just as pulleys are more versatile
+      than their rigid cousin the lever. Using springs in a small robot might take a
+      small amount of imagination, but rubber bands almost scream to
+      be used. There are often several small tasks that a robot
+      performs only once during a game. It would not make sense to
+      devote an entire motor to such a task. It's not worth carrying
+      around the extra weight if the task could be accomplished just
+      as well with rubber bands. Examples include shooting a ball, pulling up a gate, or closing a jaw.</para>
+
+      <figure id="fig2">
+	 <media id="idp14139904" alt=""><image src="../../media/use_rubberband2.gif" mime-type="image/gif"/></media>
+	<caption>Using a Cam and a Rubber Band</caption>
+      </figure>
+
+      <para id="para4">Rubber bands also prove useful in the case of
+      repetitive motions. Rather than turning a motor forward then
+      backwards then forwards and so on, one could make use of a cam
+      and a rubber band to allow the motor to always turn in one
+      direction. Look at the assembly in Figure <link target-id="fig2"/>
+      for an example.</para> </section> </content> </document>

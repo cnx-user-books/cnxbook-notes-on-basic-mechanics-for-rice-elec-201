@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Torque</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>19c1d015-6621-43b1-9b06-885c8c96fd86</md:uuid>
+</metadata>
+
+  <content>
+
+    <para id="element-414">A <term>torque</term> is a force applied at a distance from a pivot point, such as an axle or shaft. When describing torques, one must include the magnitude and direction of the force, plus the perpendicular distance from the pivot where the force is applied. The magnitude of the torque is the <emphasis>product</emphasis> of the force and the distance from the pivot. Since torque is a product of force and distance, one may be "traded" for the other. The same torque can be created by  applying a different force at a different distance from the pivot. </para><figure id="fig1">
+       <media id="idm13815376" alt=""><image src="../../media/img69.gif" mime-type="image/gif"/></media>
+      <caption>Illustrating Torque</caption>
+    </figure>
+
+    <para id="para1">Figure 1 shows a beam, such as a LEGO beam, with an axle pivot at one end, the fulcrum. The beam is free to rotate about the fulcrum, so a downward force will cause the beam to rotate downward, or clockwise, in Figure 1.  The force of 8 units shown applied at a distance of 8 units from the fulcurm produces a downward, or clockwise, torque of 64 units. </para>
+
+    <para id="element-789">If we want the beam to remain stationary, we must apply an equal torque in the upward direction.  We can apply force at many points along the beam, but the force needed depends on where we apply it because of the force-distance trade-off of torque.  We could apply an upward force at the same place as the downward force, having the same magnitude.  Or, as shown, we could apply a smaller force, 4 units, at a larger distance, 16 units.  The smaller force at a larger distance produces the same torque, 64 units. By the same reasoning, we would have to apply a larger force closer to the pivot to produce the same upward torque.</para><para id="element-156">Figure 1 illustrates how a simple lever works and why it is useful.  Applying a small force at a large distance from the pivot can produce or oppose a very large force close to the pivot.  "Give me a long enough lever, and I can move the world."</para><para id="para2">In summary, <term>torque</term> is a force applied at a
+    distance from a pivot. When describing torques, one must include
+    magnitude, direction, and perpendicular distance from the
+    pivot. Since torque is a <emphasis>product</emphasis> of force and
+    distance, one may be "traded" for the other.  The
+    concept of trading distance traveled/applied for force
+    experienced/applied is key to many <link document="">simple
+    machines</link>.
+    </para>
+  </content>
+
+</document>

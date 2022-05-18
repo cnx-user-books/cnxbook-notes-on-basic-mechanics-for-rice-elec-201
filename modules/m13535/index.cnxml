@@ -1,0 +1,160 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Forces</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c9b0f052-8194-4153-bcaa-6104e38d0346</md:uuid>
+</metadata>
+
+  <content>
+
+    <para id="element-246">An object in motion, or at rest, will not change its state of motion unless a force is applied.  This resistance to changes in motion is called <term>inertia</term>. To be clear, a
+	change in motion is not just beginning to move from a
+	stop. Slowing down, speeding up, and changing direction are
+	all changes in motion. The only way to change a object's
+	motion is to apply a force to that object. A book slid across
+	a table only comes to a stop because of the frictional forces
+	acting on it. Inertia is proportional to mass, so a more
+	massive object is more difficult to move or stop than a
+	lighter one, even on a frictionless surface. This module will consider forces and friction, which both act on an object's inertia. </para>
+
+<para id="element-196">Just as a book slides until a force opposes
+	  its motion, a disc will spin until its rotation is opposed
+	  by some force. This property is aptly named <term>rotational
+	  inertia</term>. One of the most common applications of
+	  rotational inertia is shown in <link target-id="fig9"/>. Many
+	  children's toys use rotational inertia. In friction-drive
+	  cars, the child pushes the car forward several times to set
+	  an internal flywheel in motion. When the car is put down,
+	  the flywheel is still spinning and the car moves. This is an
+	  interesting way to store energy -- in kinetic, rather than
+	  potential form. A flywheel
+	  could conceivably be used to store energy to keep small
+	   robot operating after its motors were required to be
+	  shut off. Rotational inertia is also used to avoid
+	  changes in motion for such objects as record players, where
+	  it is important to maintain rotation at a constant speed. </para><figure id="element-454"><media id="idp2311616" alt=""><image src="../../media/img78.gif" mime-type="image/gif"/></media>
+	<caption>Flywheel</caption></figure>
+
+<section id="sec1">
+      <title>Force</title>
+
+<para id="para1">Whether a force is the push of a motor or the
+      pull of gravity, the important characteristics are
+      the magnitude and direction of the force, and the mass and
+      previous state of motion of the object being affected. By
+      pushing on a moving car, one can either cause it to gain speed
+      or come to a stop, depending on which direction the force is
+      applied, and that same force applied to a feather would be
+      expected to more drastically affect the motion of the
+      feather.</para> 
+
+    <para id="para2">It is common practice to determine the expected
+      changes in motion that an object will experience due to a
+      particular force with the aid of a <term>free body
+      diagram</term>.  A diagram can tell us at a glance in which
+      direction we would expect an object to accelerate or
+      decelerate. A free body diagram shows all of the forces acting
+      on an object, even if their effects are balanced out by another
+      force. We will use free body diagrams to consider different
+      situations involving the lamp that you find at your lab station
+      (<link target-id="fig1"/>).</para>
+
+    <para id="para3">One force that always acts on the lamp is
+      gravity. This familiar force would accelerate the lamp downward
+      toward the center of the earth <emphasis>if</emphasis> left
+      unchallenged. However, when the lamp is placed on a table it
+      does not move downward because the table holds it up. The lamp
+      is pushing down on the table and the table is pushing up on the
+      lamp. This pair of forces is an action-reaction pair: equal and
+      opposite forces acting on two different objects in contact. The
+      reaction force from the table is called the <term>normal
+      force</term> because this force is oriented normal
+      (perpendicular) to the surface of the table. The arrows
+      representing the forces are labeled. The symbols over the labels
+      remind us that the forces are vector quantities and that the
+      direction in which the force is applied is important. The length
+      of the force vector should be proportional to their
+      magnitudes.</para>
+
+    <figure id="fig1">
+      <media id="idm317888" alt=""><image src="../../media/freebody_diagrams.gif" mime-type="image/gif"/></media>
+      <caption>Free Body Diagrams</caption>
+    </figure>
+
+    <para id="para4">In <link target-id="fig1"/> the lamp was represented
+      by a simple dot. We assumed that the lamp was rigid and that a
+      downward force applied at one particular spot on the lamp would
+      yield the same result as a similar downward force applied at a
+      different place on the lamp. Actually, in order for a force of
+      equal magnitude and direction to affect an object's motion in
+      the same manner it must be applied along the same line of action
+      as the original force (see <link target-id="fig2"/>). If the
+      original force had been a tug on a string tied to the lamp, then
+      it makes sense that grabbing the string at a different distance
+      away from the lamp to tug should not make a difference provided
+      that the direction and magnitude do not change.</para>
+
+    <figure id="fig2">
+      <media id="idp1760208" alt=""><image src="../../media/img67.gif" mime-type="image/gif"/></media> 
+      <caption>Line of Action</caption>
+    </figure>
+</section>
+
+    <!-- The section Friction in the Forces module -->
+    <section id="frict">
+      <title>Friction</title>
+
+      <para id="para5">The normal force from the table's surface is a
+	reaction force <emphasis>only</emphasis>. Without the downward
+	force on the table from the object resting its weight on the
+	surface, the normal force does not exist. This type of
+	behavior is also descriptive of frictional forces.</para>
+	
+      <para id="para6">
+	<term>Friction</term> is opposition to motion, so if nothing
+	is trying to move there will be no friction. However, friction
+	will be present when motion is attempted, even if the object
+	is not yet moving. There are two different types of friction:
+	static, which acts before the object begins to move, and
+	dynamic, which acts after the object begins moving.
+	<term>Static friction</term> is usually stronger than
+	<term>dynamic friction</term>.
+      </para>
+
+      <figure id="fig3">
+	 <media id="idm6431424" alt=""><image src="../../media/img68.gif" mime-type="image/gif"/></media>
+	<caption>"Close Up" of surfaces in contact</caption>
+      </figure>
+
+      <para id="para7">Friction occurs because the surfaces in contact
+	are <emphasis>not</emphasis> smooth. The small ridges on the
+	different surfaces catch, and in order for the objects to
+	move, these ridges must be broken off or the object must ramp
+	up and over the obstructions. By adding a lubricant between
+	the two layers, it is possible to "float" one layer high
+	enough to miss some of the obstructions to motion. At an
+	atomic level, cold joints may form where the atoms from one
+	object's surface may form weak bonds with the atoms on the
+	surface of the other object. These bonds must also be broken
+	in order for the object to move. All of this resistance to
+	motion is called <term>friction</term>. Friction is very
+	important because it not only inhibits motion, friction also
+	makes motion possible.</para>
+
+      <para id="para8">Most, but not all, small robots (such as those built in the Rice University course ELEC 201, Introduction to Engineering Design) will probably be wheeled
+	vehicles, and without friction those wheels would just spin in
+	place without moving the robot anywhere. In order to increase
+	the friction between the wheels and the game board one might
+	use wheels made of a different material or add a rubber band
+	around the wheel's circumference. Friction is not desirable in
+	all cases. When it comes to axles spinning inside of holes in
+	beams or gears rubbing up against beams or even gears pushing
+	against each other, friction can cause two identically
+	constructed gear trains to behave differently. Friction can
+	even render the whole assembly ineffective. For example, in one design, a worm gear
+	in a drive train created so much friction that more of the drive
+	motor's effort went towards overcoming friction than actually
+	driving the robot.</para>
+    </section>
+    
+  </content>
+  
+</document>
